@@ -1,3 +1,7 @@
+Visão da câmera:
+
+https://github.com/user-attachments/assets/d0ae5715-cad5-4cd5-9ec4-2e1f8be0b4b6
+
 Vídeo ao vivo transmitido pela câmera, acessando através do navegador:
 
 https://github.com/user-attachments/assets/7c692560-954e-47b9-90d3-82c2cc45d609
